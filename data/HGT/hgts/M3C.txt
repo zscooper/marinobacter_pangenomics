@@ -1,0 +1,768 @@
+15	0.529045	Proteobacteria
+16	0.628682	Proteobacteria
+34	0.542007	Geobacter sp. OR-1
+37	0.601694	cellular organisms
+166	0.529261	Bacteria
+167	0.628819	Bacteria
+168	0.61607	Bacteria
+173	0.47326	Bacteria
+174	0.640874	Bacteria
+178	0.586289	Bacteria
+181	0.568218	Proteobacteria
+192	0.63882	Bacteria
+194	0.647382	Oceanospirillales
+195	0.560421	Halomonas
+196	0.400084	Gammaproteobacteria
+197	0.449121	Oceanospirillales
+199	0.612704	Proteobacteria
+203	0.623065	Halomonas sp. JCM 18142
+204	0.628445	Proteobacteria
+205	0.655619	Halomonas sp. JCM 18142
+206	0.646422	Halomonas sp. JCM 18142
+207	0.57069	Gammaproteobacteria
+208	0.461532	Gammaproteobacteria
+210	0.604406	Gammaproteobacteria
+211	0.549496	Pseudomonas
+217	0.642969	Ferriphaselus amnicola
+239	0.556704	Proteobacteria
+264	0.550732	Proteobacteria
+290	0.535227	Halospina denitrificans
+291	0.550783	Gammaproteobacteria
+309	0.644158	Proteobacteria
+310	0.596691	Moritella
+313	0.607517	Bacteria
+321	0.532078	Betaproteobacteria
+323	0.644158	Proteobacteria
+328	0.59263	Bacteria
+329	0.64779	Gammaproteobacteria
+330	0.514482	Gammaproteobacteria
+331	0.642238	Gammaproteobacteria
+342	0.511394	Saccharospirillaceae
+347	0.655625	Proteobacteria
+348	0.651307	Pistricoccus aurantiacus
+349	0.653101	Pistricoccus aurantiacus
+351	0.546702	Simplicispira psychrophila DSM 11588
+352	0.401638	Bacteria
+353	0.584269	Bacteria
+355	0.54795	Proteobacteria
+356	0.374785	Bacteria
+357	0.460753	Bacteria
+358	0.612887	Proteobacteria
+359	0.598008	Proteobacteria
+360	0.462247	Bacteria
+376	0.587614	Proteobacteria
+431	0.548627	Oceanisphaera
+462	0.644187	Halomonadaceae
+467	0.619394	Proteobacteria
+468	0.600872	Proteobacteria
+469	0.588017	Proteobacteria
+470	0.600931	Proteobacteria
+471	0.599714	Halomonas
+472	0.640363	Psychrobacter
+475	0.517301	Alphaproteobacteria
+476	0.654775	Psychrobacter
+477	0.557153	Psychrobacter
+478	0.458576	Psychrobacter
+479	0.608694	Psychrobacter
+480	0.623081	Bacteria
+481	0.655711	Saccharospirillum impatiens DSM 12546
+482	0.64291	Proteobacteria
+483	0.595254	Halomonas
+485	0.61533	Halomonadaceae
+486	0.627316	Halomonas
+487	0.655433	Halomonadaceae
+488	0.627258	Proteobacteria
+489	0.655097	Halomonas
+490	0.650549	Halomonadaceae
+492	0.617214	Halomonas
+493	0.599505	Halomonas
+494	0.611846	Halomonas
+495	0.653841	Halomonas
+496	0.644041	Halomonas
+497	0.619505	Halomonas
+498	0.62853	Halomonas
+499	0.644149	Marinobacterium
+502	0.523367	Aquisalimonas asiatica
+503	0.622099	Aquisalimonas asiatica
+504	0.637397	Proteobacteria
+507	0.58984	Aquisalimonas asiatica
+508	0.598278	Aquisalimonas asiatica
+509	0.642323	Gammaproteobacteria
+511	0.655755	Saccharospirillum impatiens DSM 12546
+512	0.623081	Bacteria
+523	0.632274	Gammaproteobacteria
+524	0.638081	Pseudomonas sp. CC6-YY-74
+525	0.619531	Gammaproteobacteria
+526	0.645796	Bacteria
+527	0.595617	Gammaproteobacteria
+528	0.610797	Gammaproteobacteria
+529	0.638529	Gammaproteobacteria
+533	0.640605	Gammaproteobacteria
+538	0.633975	Proteobacteria
+540	0.55613	Pseudomonas sp. RL
+541	0.631977	Proteobacteria
+543	0.650822	Gammaproteobacteria
+546	0.510692	Proteobacteria
+548	0.654018	Bacteria
+549	0.633169	Proteobacteria
+550	0.61093	Proteobacteria
+551	0.554976	Proteobacteria
+565	0.554002	Gammaproteobacteria
+567	0.60552	Proteobacteria
+568	0.564014	Gammaproteobacteria
+569	0.558277	Proteobacteria
+570	0.548578	Ectothiorhodospiraceae
+572	0.644608	Gammaproteobacteria
+658	0.646022	Marinobacterium
+659	0.524437	Marinobacterium
+660	0.537044	Marinobacterium
+661	0.64116	Marinobacterium
+662	0.54485	Marinobacterium
+664	0.558234	Oceanospirillaceae
+683	0.539753	Gammaproteobacteria
+684	0.504824	Gammaproteobacteria
+701	0.559417	Oceanospirillales
+702	0.42762	Gammaproteobacteria
+703	0.654573	Gammaproteobacteria
+705	0.568499	Bacteria
+706	0.542137	Bacteria
+707	0.636442	Halomonas
+708	0.556096	Halomonas
+709	0.636512	Halomonas
+710	0.49595	Halomonas
+719	0.554005	Gammaproteobacteria
+723	0.622553	Gammaproteobacteria
+724	0.580045	Gammaproteobacteria
+726	0.532085	Gammaproteobacteria
+736	0.561762	Bacteria
+747	0.628658	Gammaproteobacteria
+760	0.530499	Aurantimonadaceae
+761	0.591822	Gammaproteobacteria
+763	0.595489	Halomonas
+773	0.579025	Pseudomonas sp. Y22
+778	0.620299	Proteobacteria
+801	0.639615	Proteobacteria
+802	0.620656	Proteobacteria
+803	0.518978	Pseudomonas salegens
+806	0.634833	Proteobacteria
+807	0.576365	Proteobacteria
+809	0.503726	Bacteria
+810	0.632984	Proteobacteria
+816	0.635639	Proteobacteria
+817	0.648353	Proteobacteria
+820	0.627792	Proteobacteria
+821	0.616329	Proteobacteria
+894	0.55826	Oceanospirillaceae
+897	0.638377	Neptunomonas
+898	0.467599	Oceanospirillaceae
+899	0.547627	Neptunomonas
+984	0.636395	Halomonas
+985	0.642474	Halomonas
+986	0.574277	Halomonas
+988	0.645642	Halomonadaceae
+990	0.648453	Gammaproteobacteria
+991	0.53101	Gammaproteobacteria
+1034	0.547261	Oceanospirillaceae
+1037	0.565376	Halomonadaceae
+1085	0.593066	Proteobacteria
+1089	0.561285	Proteobacteria
+1090	0.573565	Proteobacteria
+1092	0.576403	Gammaproteobacteria
+1093	0.552129	Gammaproteobacteria
+1100	0.594327	Pseudohongiella nitratireducens
+1103	0.637935	Pseudohongiella nitratireducens
+1107	0.62615	Gammaproteobacteria
+1111	0.505732	Gammaproteobacteria
+1115	0.646884	Proteobacteria
+1116	0.646564	Pseudomonas
+1117	0.649894	Pseudomonas
+1118	0.465139	Proteobacteria
+1119	0.589494	Pseudomonas
+1120	0.654821	unclassified Halomonas
+1121	0.647011	unclassified Halomonas
+1122	0.485743	Proteobacteria
+1123	0.547401	unclassified Halomonas
+1124	0.631955	Gammaproteobacteria
+1125	0.644379	Proteobacteria
+1126	0.655488	Gammaproteobacteria
+1127	0.647644	unclassified Halomonas
+1128	0.609422	Proteobacteria
+1132	0.590183	Halomonas endophytica
+1136	0.62615	Gammaproteobacteria
+1138	0.615131	Bacteria
+1141	0.645559	Bacteria
+1142	0.650262	Proteobacteria
+1143	0.62615	Gammaproteobacteria
+1156	0.540982	Gammaproteobacteria
+1165	0.640399	Proteobacteria
+1166	0.542489	Bacteria
+1167	0.545001	Proteobacteria
+1173	0.599716	Alcanivorax
+1195	0.64475	Rhodobacteraceae
+1196	0.577707	Oceanospirillales
+1197	0.643597	Pseudomonas
+1205	0.5347	Halomonas
+1206	0.637596	Bacteria
+1211	0.630792	Proteobacteria
+1212	0.59986	Proteobacteria
+1274	0.501312	Shewanella denitrificans OS217
+1276	0.646152	Shewanellaceae
+1278	0.610478	Proteobacteria
+1308	0.6249	Proteobacteria
+1309	0.590553	Gammaproteobacteria
+1310	0.594942	Gammaproteobacteria
+1311	0.604298	Gammaproteobacteria
+1312	0.55343	Gammaproteobacteria
+1313	0.645703	Halomonas saccharevitans
+1315	0.394401	Gammaproteobacteria
+1316	0.648027	Gammaproteobacteria
+1321	0.631368	Gammaproteobacteria
+1326	0.576154	Gammaproteobacteria
+1328	0.414591	Proteobacteria
+1330	0.61957	Gammaproteobacteria
+1335	0.619804	Henriciella marina DSM 19595
+1336	0.542366	Nitrosomonas sp. Nm141
+1337	0.603598	Ponticoccus sp. LZ-14
+1339	0.593109	Gammaproteobacteria
+1344	0.577337	Pseudomonas pohangensis
+1362	0.54568	Proteobacteria
+1365	0.629902	Proteobacteria
+1366	0.612122	Gammaproteobacteria
+1374	0.505549	Bacteria
+1410	0.624478	Proteobacteria
+1411	0.625469	Proteobacteria
+1412	0.618738	Gammaproteobacteria
+1460	0.616652	Oceanospirillales
+1478	0.549429	Proteobacteria
+1479	0.612288	Proteobacteria
+1482	0.512223	Proteobacteria
+1483	0.571547	Pseudomonas salina
+1484	0.604161	Gammaproteobacteria
+1485	0.574561	Proteobacteria
+1488	0.617002	Gammaproteobacteria
+1489	0.595006	Proteobacteria
+1490	0.642852	Proteobacteria
+1492	0.623309	Proteobacteria
+1494	0.538024	Abyssibacter profundi
+1496	0.542892	Cyanobacteria
+1497	0.553851	Proteobacteria
+1500	0.566329	Proteobacteria
+1534	0.61203	Gammaproteobacteria
+1713	0.593895	Photobacterium
+1733	0.555512	Halomonadaceae
+1870	0.512253	Gammaproteobacteria
+1914	0.644347	Proteobacteria
+1915	0.575169	Proteobacteria
+1919	0.650137	Gammaproteobacteria
+1920	0.44124	Gammaproteobacteria
+1922	0.649979	Gammaproteobacteria
+1923	0.653696	Gammaproteobacteria
+1930	0.590147	Gammaproteobacteria
+1932	0.64809	Gammaproteobacteria
+1933	0.615143	Halomonas
+1934	0.480452	Halomonas
+1935	0.44468	Halomonadaceae
+1936	0.624956	Halomonas
+1937	0.654037	Halomonas
+1938	0.655505	Halomonas
+1939	0.613689	Halomonas
+1941	0.650886	Halomonas
+1942	0.638049	Halomonas
+1943	0.605557	Halomonas
+1944	0.576347	Halomonas ilicicola DSM 19980
+1946	0.587707	Halomonadaceae
+1947	0.646855	Halomonadaceae
+1948	0.305931	Gammaproteobacteria
+1949	0.466468	Gammaproteobacteria
+1952	0.596416	Gammaproteobacteria
+1953	0.649349	Halomonadaceae
+1954	0.635913	Gammaproteobacteria
+1955	0.43159	Proteobacteria
+1956	0.496248	Halomonadaceae
+1957	0.510969	Proteobacteria
+1958	0.574422	Halomonadaceae
+1959	0.485541	Gammaproteobacteria
+1960	0.620791	Rhizobiales
+1961	0.577054	Proteobacteria
+1969	0.635073	Bacteria
+1972	0.563036	Marinobacterium litorale DSM 23545
+1974	0.595716	Halomonas
+1977	0.515439	Proteobacteria
+1985	0.649977	Alphaproteobacteria
+1986	0.524173	Halomonas
+1987	0.650809	Sulfitobacter brevis
+1988	0.641499	Rhodobacteraceae
+1990	0.60513	Rhodobacteraceae
+1991	0.553673	Rhodobacteraceae
+1992	0.517135	Proteobacteria
+1993	0.653635	Rhodobacteraceae
+1994	0.620322	Burkholderiales
+1995	0.418429	Burkholderiales
+1996	0.506635	Proteobacteria
+1999	0.655123	Halomonas
+2000	0.603464	Halomonas
+2001	0.630358	Gammaproteobacteria
+2002	0.524097	Gammaproteobacteria
+2003	0.563162	Rhodobacteraceae
+2004	0.552497	Halomonas
+2005	0.565063	Halomonadaceae
+2006	0.565112	Gammaproteobacteria
+2007	0.585538	Halomonadaceae
+2008	0.620332	Gammaproteobacteria
+2010	0.653817	Gammaproteobacteria
+2011	0.371274	Halomonadaceae
+2012	0.649415	Halomonadaceae
+2015	0.285212	Proteobacteria
+2016	0.295846	Alphaproteobacteria
+2017	0.313056	Alphaproteobacteria
+2018	0.650828	Alphaproteobacteria
+2019	0.641962	Alphaproteobacteria
+2020	0.609185	Alphaproteobacteria
+2027	0.516146	Halomonadaceae
+2028	0.641327	Halomonas
+2029	0.643733	Gammaproteobacteria
+2030	0.637082	Gammaproteobacteria
+2032	0.607425	Oceanospirillaceae
+2034	0.343676	Gammaproteobacteria
+2035	0.280444	Proteobacteria
+2036	0.509159	Gammaproteobacteria
+2037	0.639457	Gammaproteobacteria
+2038	0.551215	Gammaproteobacteria
+2039	0.622337	Gammaproteobacteria
+2040	0.621434	Gammaproteobacteria
+2041	0.625329	Pseudomonas
+2042	0.622865	Gammaproteobacteria
+2043	0.612666	Gammaproteobacteria
+2044	0.259993	Proteobacteria
+2045	0.423377	Proteobacteria
+2048	0.456221	Proteobacteria
+2049	0.329869	Proteobacteria
+2050	0.627388	Proteobacteria
+2053	0.61177	Halomonas
+2056	0.655313	Halomonas
+2058	0.551833	Halomonas
+2061	0.640793	Halomonas
+2072	0.608313	Halomonas sp. Marseille-P2426
+2078	0.592155	Pseudomonas caeni DSM 24390
+2083	0.526931	Gammaproteobacteria
+2088	0.602794	unclassified Rhodospirillales
+2093	0.652927	Proteobacteria
+2099	0.500585	Proteobacteria
+2100	0.60024	Gammaproteobacteria
+2146	0.561683	Pseudomonas sp. PI1
+2149	0.646202	Proteobacteria
+2180	0.655404	Pseudomonas sp. 16W4-4-3
+2181	0.629144	Pseudomonas sp. 16W4-4-3
+2185	0.560009	Gammaproteobacteria
+2219	0.64568	Halomonadaceae
+2220	0.632748	Halomonadaceae
+2268	0.526282	Arenimonas donghaensis DSM 18148 = HO3-R19
+2269	0.578338	Bacteria
+2275	0.631298	Salinivibrio kushneri
+2277	0.602382	Alteromonadales
+2278	0.540527	Gammaproteobacteria
+2283	0.578338	Bacteria
+2291	0.62615	Gammaproteobacteria
+2293	0.590353	Proteobacteria
+2294	0.62615	Gammaproteobacteria
+2296	0.636299	Proteobacteria
+2297	0.648849	Pseudomonas
+2332	0.528248	cellular organisms
+2347	0.620209	Pistricoccus aurantiacus
+2348	0.387707	Gammaproteobacteria
+2361	0.563682	unclassified Halomonas
+2376	0.515604	Halioglobus sp. U0301
+2380	0.62821	Oceanospirillales
+2383	0.654711	Proteobacteria
+2390	0.544416	Burkholderiales
+2398	0.635349	Gammaproteobacteria
+2404	0.62615	Gammaproteobacteria
+2410	0.572614	Halomonadaceae
+2413	0.628212	Gammaproteobacteria
+2420	0.519885	Gammaproteobacteria
+2422	0.541921	Gammaproteobacteria
+2452	0.550172	Gammaproteobacteria
+2453	0.515049	Gammaproteobacteria
+2455	0.606512	Gammaproteobacteria
+2456	0.593201	Gammaproteobacteria
+2457	0.561203	Ectothiorhodospira marina
+2458	0.632984	Proteobacteria
+2459	0.55038	Proteobacteria
+2460	0.516078	Proteobacteria
+2464	0.607348	Granulosicoccus antarcticus IMCC3135
+2465	0.565327	Granulosicoccus antarcticus IMCC3135
+2466	0.645667	Granulosicoccus antarcticus IMCC3135
+2467	0.627819	Granulosicoccus antarcticus IMCC3135
+2468	0.420773	Gammaproteobacteria
+2469	0.640915	Gammaproteobacteria
+2470	0.643947	Saccharospirillum
+2471	0.46369	Gammaproteobacteria
+2475	0.58709	Granulosicoccus antarcticus IMCC3135
+2477	0.464264	Proteobacteria
+2489	0.65037	Proteobacteria
+2491	0.515997	Proteobacteria
+2492	0.621769	Proteobacteria
+2495	0.592884	Proteobacteria
+2503	0.625892	Bacteria
+2504	0.631987	Proteobacteria
+2505	0.619845	Halomonas sp. G11
+2507	0.595817	Halomonas sp. G11
+2508	0.632134	Pseudomonas caeni DSM 24390
+2510	0.579144	Halomonas sp. HL-93
+2511	0.564489	Halomonas sp. HL-93
+2512	0.609032	Halomonas sp. HL-93
+2514	0.654442	Rhodovibrio salinarum DSM 9154
+2515	0.525854	Pseudomonas
+2516	0.636729	Pseudomonas
+2518	0.652281	Pseudomonas
+2521	0.622807	Moraxellaceae
+2523	0.610872	Proteobacteria
+2524	0.581489	unclassified Pseudomonas
+2525	0.63637	Pseudomonas
+2526	0.636998	unclassified Pseudomonas
+2527	0.645853	unclassified Pseudomonas
+2528	0.636311	unclassified Pseudomonas
+2529	0.646071	Pseudomonas
+2530	0.513341	Pseudomonas
+2531	0.653259	Pseudomonas
+2532	0.612287	Pseudomonas
+2533	0.6352	unclassified Pseudomonas
+2534	0.609674	Pseudomonas
+2563	0.649512	Gammaproteobacteria
+2589	0.520183	Saccharospirillum impatiens DSM 12546
+2590	0.592765	Saccharospirillum impatiens DSM 12546
+2597	0.616473	Gammaproteobacteria
+2601	0.593509	Halomonas
+2603	0.574723	Pseudomonas
+2605	0.61267	Halomonas
+2606	0.585111	Halomonadaceae
+2607	0.47309	Bacteria
+2671	0.347969	Proteobacteria
+2672	0.392983	Proteobacteria
+2673	0.572017	Oceanospirillales
+2674	0.627747	Halomonadaceae
+2675	0.498284	Gammaproteobacteria
+2676	0.515161	Proteobacteria
+2680	0.426388	Proteobacteria
+2681	0.631516	Halomonadaceae
+2682	0.491967	Proteobacteria
+2683	0.577964	Proteobacteria
+2684	0.466522	Gammaproteobacteria
+2685	0.61021	Bacteria
+2848	0.597197	unclassified Thioalkalivibrio
+2852	0.597605	Gammaproteobacteria
+3006	0.397917	Burkholderiales
+3021	0.570803	Zhongshania aliphaticivorans
+3025	0.600321	Proteobacteria
+3029	0.526155	Gammaproteobacteria
+3031	0.615305	Gammaproteobacteria
+3038	0.514112	Proteobacteria
+3054	0.502703	Halospina sp. K52047b
+3102	0.563085	Halomonas endophytica
+3112	0.520196	Oceanospirillales
+3132	0.532525	Alcanivorax sp. CP2C
+3135	0.608837	Gammaproteobacteria
+3170	0.531755	Pseudomonas
+3171	0.487643	Pseudomonas
+3172	0.641059	Pseudomonas
+3173	0.437484	Pseudomonas
+3174	0.639862	Proteobacteria
+3175	0.526757	Pseudomonas
+3176	0.649084	Pseudomonas
+3177	0.640943	Pseudomonas
+3178	0.440883	Pseudomonas
+3179	0.623522	Pseudomonas
+3180	0.596393	Halomonas
+3183	0.653232	Pseudomonas
+3184	0.524975	Pseudomonas
+3185	0.462963	Gammaproteobacteria
+3186	0.503559	Gammaproteobacteria
+3187	0.492878	Halomonadaceae
+3189	0.597517	Halomonas
+3190	0.519842	Halomonadaceae
+3192	0.376167	Gammaproteobacteria
+3193	0.642177	Halomonadaceae
+3195	0.400835	unclassified Halomonas
+3200	0.64612	Halomonas
+3201	0.630956	Halomonadaceae
+3202	0.611688	Halomonadaceae
+3203	0.63993	Halomonadaceae
+3204	0.322966	Halomonadaceae
+3205	0.570686	Halomonadaceae
+3208	0.448792	Halomonadaceae
+3209	0.639188	Oceanospirillales
+3210	0.544126	Oceanospirillales
+3212	0.562168	Halomonas
+3215	0.388589	Halomonadaceae
+3218	0.649865	Gammaproteobacteria
+3219	0.64952	Halomonas
+3220	0.497742	Halomonas
+3221	0.554759	Halomonadaceae
+3223	0.588284	Gammaproteobacteria
+3225	0.651612	Halomonadaceae
+3226	0.466534	Halomonadaceae
+3227	0.63535	Halomonadaceae
+3228	0.337361	Gammaproteobacteria
+3229	0.645443	Halomonadaceae
+3230	0.53058	Gammaproteobacteria
+3232	0.507352	Halomonas
+3233	0.58558	Halomonas
+3234	0.606014	Halomonadaceae
+3235	0.635507	Halomonas
+3237	0.460854	Proteobacteria
+3238	0.400644	Gammaproteobacteria
+3239	0.519544	Halomonas
+3240	0.547077	Halomonas
+3241	0.609126	Halomonas
+3243	0.644232	Halomonas
+3245	0.615161	Halomonas
+3246	0.640218	Halomonadaceae
+3248	0.342867	Halomonas
+3249	0.415193	Halomonas
+3250	0.592518	Gammaproteobacteria
+3252	0.631929	unclassified Halomonas
+3254	0.401553	Proteobacteria
+3255	0.647308	Halomonas
+3256	0.553228	Halomonas
+3257	0.513985	Halomonadaceae
+3258	0.497455	Halomonadaceae
+3259	0.413969	Halomonadaceae
+3260	0.54821	Halomonadaceae
+3261	0.498984	Halomonadaceae
+3262	0.653667	Halomonas
+3266	0.535367	Proteobacteria
+3269	0.591507	Proteobacteria
+3283	0.620555	Bacteria
+3323	0.580849	Halomonas jeotgali Hwa
+3324	0.509871	Halomonas
+3325	0.559255	Halomonadaceae
+3327	0.610698	Halomonadaceae
+3332	0.526443	Proteobacteria
+3370	0.45962	Proteobacteria
+3390	0.626485	Proteobacteria
+3458	0.533456	Bacteria
+3471	0.505423	Alphaproteobacteria
+3474	0.569607	Bacteria
+3480	0.638756	Bacteria
+3481	0.561835	Proteobacteria
+3482	0.572406	Proteobacteria
+3487	0.597019	Sporosarcina
+3488	0.588284	Gammaproteobacteria
+3495	0.597299	Bacteria
+3499	0.641876	Gammaproteobacteria
+3504	0.60074	Bacteria
+3505	0.614726	Gammaproteobacteria
+3506	0.567879	Gammaproteobacteria
+3507	0.597911	Gammaproteobacteria
+3515	0.611405	Gammaproteobacteria
+3517	0.596553	Proteobacteria
+3519	0.546104	Proteobacteria
+3520	0.5897	Bacteria
+3521	0.597775	Bradyrhizobiaceae
+3522	0.526609	Bradyrhizobiaceae
+3523	0.57109	Proteobacteria
+3526	0.506328	Proteobacteria
+3527	0.594082	Proteobacteria
+3529	0.571554	Proteobacteria
+3537	0.576833	Gammaproteobacteria
+3540	0.592267	Proteobacteria
+3545	0.535609	Proteobacteria
+3571	0.639862	Proteobacteria
+3574	0.54836	Bacteroidetes
+3594	0.485792	cellular organisms
+3595	0.60175	Proteobacteria
+3601	0.542929	Proteobacteria
+3604	0.647144	cellular organisms
+3605	0.607685	cellular organisms
+3609	0.532695	Oceanospirillales
+3610	0.625755	Gammaproteobacteria
+3612	0.527276	Gammaproteobacteria
+3613	0.443582	Bacteria
+3616	0.513543	Comamonadaceae
+3619	0.620338	Ramlibacter
+3620	0.604239	Halomonas
+3622	0.635283	Halomonas
+3623	0.567831	Halomonas
+3624	0.425745	Halomonas
+3625	0.355283	Halomonadaceae
+3626	0.356265	Halomonas
+3627	0.424279	Halomonas
+3629	0.653315	Halomonas
+3630	0.617878	Halomonas
+3631	0.62678	Halomonas
+3632	0.635973	Halomonas
+3633	0.632322	Halomonas
+3634	0.58091	Gammaproteobacteria
+3642	0.625411	Halomonadaceae
+3645	0.62615	Gammaproteobacteria
+3655	0.632944	Loktanella
+3656	0.576525	Sulfitobacter brevis
+3659	0.588658	Bacteria
+3664	0.596272	Gammaproteobacteria
+3667	0.352681	Halomonadaceae
+3669	0.555439	Halomonadaceae
+3685	0.544784	Bacteria
+3704	0.632024	Halomonas
+3705	0.621642	Halomonas
+3706	0.56422	Halomonas
+3707	0.533839	Halomonadaceae
+3708	0.627789	Halomonas
+3710	0.644752	Halomonadaceae
+3758	0.643764	Proteobacteria
+3759	0.632287	Proteobacteria
+3762	0.630205	Proteobacteria
+3764	0.540249	Rhodobacteraceae
+3766	0.651422	Bacteria
+3768	0.507957	unclassified Pseudomonas
+3811	0.625001	Marinobacterium
+3813	0.571011	Oceanospirillales
+3814	0.626129	Gammaproteobacteria
+3818	0.548134	Arsukibacterium sp. MJ3
+3893	0.640789	Proteobacteria
+4059	0.645605	Proteobacteria
+4060	0.655768	Proteobacteria
+4062	0.641251	Halomonas sp. L5
+4063	0.53221	Proteobacteria
+4064	0.606454	Proteobacteria
+4071	0.624477	Gammaproteobacteria
+4109	0.59584	Oceanospirillales
+4110	0.646452	Bacterioplanes sanyensis
+4112	0.639066	Proteobacteria
+4113	0.64927	Proteobacteria
+4115	0.569749	Halomonas utahensis
+4120	0.5965	Bacteria
+4123	0.504755	Gammaproteobacteria
+4129	0.606247	Halomonas
+4131	0.519175	Gammaproteobacteria
+4133	0.518581	Gammaproteobacteria
+4135	0.518581	Gammaproteobacteria
+4137	0.520412	Gammaproteobacteria
+4139	0.528484	Halomonas sp. TQ8S
+4144	0.630435	Bacteria
+4145	0.565861	Proteobacteria
+4146	0.654142	Proteobacteria
+4204	0.52281	Halomonadaceae
+4206	0.578626	Halomonadaceae
+4208	0.510751	Halomonadaceae
+4240	0.512175	Gammaproteobacteria
+4280	0.596189	Gammaproteobacteria
+4323	0.562294	Gammaproteobacteria
+4330	0.556373	Rhodobacteraceae bacterium MA-7-27
+4332	0.55301	Nioella nitratireducens
+4333	0.636629	Nioella nitratireducens
+4334	0.600337	Nioella nitratireducens
+4335	0.619012	Rhodobacteraceae
+4336	0.635347	Nioella nitratireducens
+4337	0.569093	Rhodobacteraceae
+4338	0.592079	Rhodobacteraceae
+4341	0.592988	Alphaproteobacteria
+4342	0.582137	Gemmobacter sp. HB-1
+4382	0.642989	Proteobacteria
+4384	0.544284	Proteobacteria
+4385	0.61758	Bacteria
+4386	0.493286	Bacteria
+4387	0.651973	Proteobacteria
+4388	0.538942	Proteobacteria
+4389	0.655835	Oxalobacteraceae
+4392	0.617606	Alphaproteobacteria
+4394	0.654927	Gammaproteobacteria
+4395	0.523873	Proteobacteria
+4398	0.492682	Alphaproteobacteria
+4399	0.649181	Alphaproteobacteria
+4400	0.497561	Proteobacteria
+4401	0.63802	Alphaproteobacteria
+4402	0.643227	Proteobacteria
+4409	0.601317	Alphaproteobacteria
+4410	0.621991	Idiomarina
+4411	0.644652	Bacteria
+4412	0.616075	Proteobacteria
+4420	0.6408	Burkholderiaceae
+4421	0.540091	Proteobacteria
+4422	0.640205	Proteobacteria
+4423	0.654282	Betaproteobacteria
+4424	0.619978	Bacteria
+4425	0.646447	Proteobacteria
+4426	0.642687	Proteobacteria
+4427	0.599309	Thauera
+4430	0.624511	Telmatospirillum sp. J64-1
+4433	0.579028	Proteobacteria
+4434	0.641955	Proteobacteria
+4442	0.615665	Alphaproteobacteria
+4445	0.655601	Rhodobacter
+4446	0.610984	Proteobacteria
+4447	0.534006	Proteobacteria
+4448	0.647412	Proteobacteria
+4460	0.595106	Halomonas
+4463	0.56696	Gammaproteobacteria
+4466	0.397814	Proteobacteria
+4467	0.618022	Gammaproteobacteria
+4469	0.558882	Rhodobacteraceae
+4470	0.647782	unclassified Halomonas
+4471	0.651738	Halomonas
+4472	0.561735	unclassified Halomonas
+4473	0.643936	Oceanospirillales
+4474	0.556764	Halomonas
+4475	0.627179	Proteobacteria
+4476	0.275481	Proteobacteria
+4477	0.514162	Rhodobacteraceae
+4478	0.2916	Rhodobacteraceae
+4480	0.595106	Halomonas
+4481	0.653549	Gammaproteobacteria
+4483	0.309389	Rhodobacteraceae
+4486	0.614648	Alphaproteobacteria
+4494	0.635182	unclassified Thioalkalivibrio
+4495	0.644287	Bacteria
+4501	0.562627	Gammaproteobacteria
+4502	0.514199	Burkholderiales
+4513	0.619434	Gammaproteobacteria
+4543	0.65385	Bordetella genomosp. 7
+4544	0.520686	Bordetella genomosp. 7
+4545	0.63893	Proteobacteria
+4547	0.504223	Pseudomonas azotifigens DSM 17556
+4548	0.509714	Pseudomonas azotifigens DSM 17556
+4549	0.626422	Proteobacteria
+4550	0.633123	Proteobacteria
+4551	0.591829	Bordetella genomosp. 7
+4554	0.64183	Proteobacteria
+4555	0.588284	Gammaproteobacteria
+4556	0.651778	Gammaproteobacteria
+4557	0.645596	Gammaproteobacteria
+4558	0.655633	Halomonas
+4559	0.518806	Halomonas
+4560	0.536581	Halomonas
+4561	0.585244	Halomonas
+4562	0.655637	Halomonas
+4567	0.603924	Proteobacteria
+4568	0.534006	Proteobacteria
+4570	0.46717	Oceanospirillaceae
+4571	0.648315	Oceanospirillaceae
+4576	0.639124	Halomonas
+4577	0.57169	Halomonas
+4578	0.646112	Halomonas
+4579	0.616723	Halomonas
+4580	0.588284	Gammaproteobacteria
+4581	0.552129	Gammaproteobacteria
+4582	0.606714	Gammaproteobacteria
+4585	0.573565	Proteobacteria
+4594	0.643818	Proteobacteria
+4597	0.641383	Saccharospirillum impatiens DSM 12546
+4598	0.572162	Bacteria
+4603	0.505514	Gammaproteobacteria
+4604	0.617591	Gammaproteobacteria
+4606	0.565223	Oceanospirillales
+4627	0.6489	Proteobacteria
+4637	0.537253	Proteobacteria
+4639	0.643507	Proteobacteria
+4640	0.523286	unclassified Halomonas
+4644	0.654859	Halomonas sp. MC
+4645	0.530137	Bacteria
+4648	0.566619	Proteobacteria
+4657	0.637019	Proteobacteria
+4658	0.549202	Gammaproteobacteria
+4659	0.585615	Proteobacteria
+4661	0.654925	Gammaproteobacteria
+4662	0.629981	Gammaproteobacteria
+4663	0.598589	Gammaproteobacteria
+4672	0.535644	Proteobacteria
+4673	0.532188	Proteobacteria
+4674	0.549643	Proteobacteria
