@@ -1,0 +1,54 @@
+Name	Clade	Environment	Latitude	Longitude	ID
+bohaiensis	I	sediment	36.072222	120.308333	1
+changyiensis	I	sediment	37.132932	119.431491	2
+daqiaonensis	I	sediment	35.989631	120.303199	3
+fonticola	I	sediment	22.12	119.29	4
+mobilis	I	sediment	20.3325	120.574722	5
+nanhaiticus	I	sediment	19.977	111.421	6
+profundi	I	sediment	-6.6	149.8	7
+salicampi	I	sediment	35.68	126.53	8
+segnicrescens	I	sediment	15	114	9
+zhejiangensis	I	sediment	20.3325	120.574722	10
+algicola	II	protist-host	35.4	123.8	11
+confluentis	II	estuary	38.480278	128.4375	12
+halotolerans	II	saltern	35.595278	126.6125	13
+lipolyticus	II	saltern	36.5	-6.25	14
+salarius	II	seawater	42.903947	132.350182	15
+vulgaris	II	saltern	36.829583	122.01025	16
+gelidimuriae	III	subzero brine	-77.717881	162.281381	17
+M1C	III	subzero brine	71.2944	-156.7153	18
+M2C	III	subzero brine	71.2944	-156.7153	19
+M3C	III	subzero brine	71.2944	-156.7153	20
+M4C	III	subzero brine	71.2944	-156.7153	21
+CB1	III	subzero brine	71.2944	-156.7153	22
+CBIA	III	subzero brine	71.2944	-156.7153	23
+CBIW17	III	subzero brine	71.2944	-156.7153	24
+CBIW18	III	subzero brine	71.2944	-156.7153	25
+psychrophilus	III	subzero brine	70.387222	-140.115278	26
+antarcticus	IV	sediment	-69.371667	76.374167	27
+aromaticivorans	IV	sediment	19.977	111.421	28
+maritimus	IV	seawater	-50.666667	68.416667	29
+piscensis	IV	food	36.8	10.2	30
+salexigens	IV	sediment	37.483333	121.95	31
+adhaerens	V	protist-host	53.57	6.95	32
+flavimaris	V	seawater	33.2	126.4	33
+gudaonensis	V	pollution	37.883333	118.833333	34
+guineae	V	sediment	-63	-60.5	35
+manganoxydans	V	hydrothermal vent	-25.32	70.04	36
+salsuginis	V	deep sea brine seep	26.216667	35.366667	37
+subterrani	V	deep subsurface	47.82	-92.24	38
+nitratireducens	VI	seawater	17.781689	83.386192	39
+salinus	VI	sediment	36	126.716667	40
+similis	VI	seawater	-38.169376	144.862703	41
+daepoensis	VII	seawater	33.2	126.4	42
+excellens	VII	pollution	42.9026	132.3528	43
+fuscus	VII	seawater	15	114	44
+halophilus	VII	saline lake	37.481389	95.505278	45
+hydrocarbonoclasticus	VII	pollution	43.4014	4.9276	46
+litoralis	VII	seawater	39.4	134.4	47
+persicus	VII	saline lake	34.4	51.7	48
+shengliensis	VII	pollution	37.883333	118.833333	49
+vinifirmus	VII	saltern	43.3058	5.3949	50
+lutaoensis	VIII	hot spring	22.6366	121.5044	51
+pelagius	VIII	seawater	30.34	122.36	52
+santoriniensis	VIII	hydrothermal vent	36.42	25.42	53
